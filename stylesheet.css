@@ -1,0 +1,26 @@
+div#container {
+    border: 1px solid black;
+    min-height: 400px;
+    width: 1420px;
+    background-color: antiquewhite;
+
+
+    footer {
+        background-color: saddlebrown;
+        color: antiquewhite;
+        font-size: 15px;
+        text-align: center;
+        padding: 8px;
+        margin: 5px;
+    }
+
+
+    span {
+        display: inline-block;
+        border-bottom: 3px solid black;
+    }
+
+    img {
+        width: 800px;
+    }
+}
